@@ -36,7 +36,7 @@
 
 		}
 		
-		mysqli_close($conexion); //indicamos que cierra la conexion para obtimizar recursos.
+		
 
 
 	?>
